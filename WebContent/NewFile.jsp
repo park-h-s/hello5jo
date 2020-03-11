@@ -22,9 +22,6 @@
     			<a href ='02-to.jsp?ans=300' class='btn btn-info'>300</a>
     			<a href ='02-to.jsp?ans=400' class='btn btn-warning'>400</a>
     			<a href ='02-to.jsp?ans=500' class='btn btn-danger'>500</a>
-    			
-    			<a href ='02-to.jsp?ans=400' class='btn btn-warning'>400</a>
-    			<a href ='02-to.jsp?ans=500' class='btn btn-danger'>500</a>
     		</div>
     </div>
 </body>
