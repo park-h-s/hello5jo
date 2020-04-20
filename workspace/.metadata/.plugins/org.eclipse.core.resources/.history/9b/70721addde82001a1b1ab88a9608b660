@@ -1,0 +1,6 @@
+package study.spring.project.model;
+
+public class Slide {
+	private String imgUrl;
+	private String moveUrl;
+}

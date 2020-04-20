@@ -1,0 +1,15 @@
+package study.spring.project.model;
+
+import lombok.Data;
+
+@Data
+public class ProductList {
+	private String title;
+	private String name;
+	private int price;
+	private int sale;
+	private String tag;
+	private String thumbnail;
+	private int like_count;
+	private int review_count;
+}
